@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 #### Hey! I’m Thomas. 
 I'm a Berlin based techie
 
