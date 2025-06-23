@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About Me
+title: Hey! I’m Thomas. 
 ---
 
-#### Hey! I’m Thomas. 
-I'm a Berlin based techie
+I'm a Berlin based techie.
 
 I fix broken stuff. Some of it I didn't even break myself.
 I'm an agile manifesto missionary, a dog person, a gamer that can't git gud, an ex-musician and a coffee nerd. Probably a few other things, too.
