@@ -1,2 +1,22 @@
 title: Thomas (Tomer) Raz
 theme: minima
+
+minima:
+  show_excerpts: true
+  author:
+    name: "Thomas (Tomer) Raz
+    email: "thomas@quitty.tech"
+  social_links:
+    - title: Gitlab
+      icon: gitlab
+      url: "https://gitlab.com/users/thomas478"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/quitty"
+  show_footer: false
+  date_format: "%Y-%m-%d"
+  nav_pages: 
+    - about.md
+    - projects.md
+    
+    
