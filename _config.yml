@@ -4,7 +4,7 @@ theme: minima
 minima:
   show_excerpts: true
   author:
-    name: "Thomas (Tomer) Raz
+    name: "Thomas (Tomer) Raz"
     email: "thomas@quitty.tech"
   social_links:
     - title: Gitlab
